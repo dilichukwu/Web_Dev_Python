@@ -10,5 +10,9 @@ Includes exercises from the book 'Learning Web Development with Python', and als
 # TODO list
 A simple app to manage your daily tasks.
 It uses HTML5 and CSS3.
+
 ## Features
 * List of daily tasks
+
+## LICENSE
+MIT License
